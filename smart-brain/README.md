@@ -1,6 +1,5 @@
-# test app
+# SmartBrain - v2
 
-### what did I Learn
-
-**implemented session management using jwt and redis**
-**added lamda function AWS service to add batch**
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
