@@ -1,6 +1,6 @@
-# SmartBrain - v2
-Final project for Udemy course
+# test app
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+### what did I Learn
+
+**implemented session management using jwt and redis**
+**added lamda function AWS service to add batch**
