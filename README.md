@@ -4,4 +4,6 @@
 
 **implemented session management using jwt and redis**
 
+**how to use redis for caching**
+
 **added lamda function AWS service to add batch**
